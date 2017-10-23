@@ -1,0 +1,14 @@
+{
+    "name": "chen/mydemo",
+    "description": "text compoer",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "cjy",
+            "email": "1270570806@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
